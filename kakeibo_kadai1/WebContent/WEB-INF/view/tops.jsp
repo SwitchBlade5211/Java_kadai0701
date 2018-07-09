@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>検索!</title>
+<title>It Takes Everything！</title>
 <style>
 
 body{font-size:18px;
